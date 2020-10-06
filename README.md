@@ -67,6 +67,11 @@ When there's a horizontal line (|), you can choose
 
 - `-l L`
   - length of the string (L = integer)
+  
+# Contribute
+
+If you can improve pwdgen (or fix the shitty code I wrote), feel free to create a PR!<br/>
+I don't think i need a code of conduct or contributing file (even though github wants me to create one), just don't insult anyone and be nice!
 
 # License
 
