@@ -45,27 +45,27 @@ And yeah, you need the dependencies. Run `pip3 install -r requirements.txt` from
 Everything in [] is optional
 When there's a horizontal line (|), you can choose
 
-- -pwd
+- `-pwd`
 
   - generates a password
 
-- -pin
+- `-pin`
 
   - generates a pin
 
-- -crypt
+- `-crypt`
 
   - generates a random string
 
-- -aaa
+- `-aaa`
 
   - ÅÁäãæäaàåaÃAÄáÂæaĀÂàäÃååáÀĀĀÄÅàaÆAAÄâaaâåäàAæÃÁāÄĀ
 
-- -cp
+- `-cp`
 
   - copies the result
 
-- l L
+- `-l L`
   - length of the string (L = integer)
 
 # License
