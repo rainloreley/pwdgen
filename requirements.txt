@@ -1,0 +1,2 @@
+Argparse==1.4.0
+Pyperclip==1.8.0
