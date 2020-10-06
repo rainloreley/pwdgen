@@ -33,6 +33,9 @@ You need:
 You could just leave the file here, navigate to this directory and run `python3 pwdgen.py`, but that's inconvenient.
 I copied the file to `/usr/local/bin` and removed the `.py` file extension so i can run `pwdgen` from everywhere. Might require a terminal relaunch, idk
 
+To copy the file to `/usr/local/bin`, run `sudo cp ./pwdgen.py /usr/local/bin/pwdgen`
+DISCLAIMER: I tested this on my machine, running macOS. idk if this is gonna work on other systems. it shouldn't break anything, but don't blame me if it does :)
+
 And yeah, you need the dependencies. Run `pip3 install -r requirements.txt` from this directory and it should automagically install all dependencies.
 
 ## Usage
